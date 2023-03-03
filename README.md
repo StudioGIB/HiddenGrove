@@ -15,16 +15,15 @@ Use :
 
 4) Possibly a light foundation or no foundation system will be employed, soil permeability has to be taken into account
 
-5)Due attention will be focused on natural ventilation systems and proper insulation and/or intentional thermal dispersion for the hot day summer conditions.
+5 )Due attention will be focused on natural ventilation systems and proper insulation and/or intentional thermal dispersion for the hot day summer conditions.
 
 
 Energy :
 1) Small solar energy panels; the cabin will be most likely be outfitted with a camping size battery, enabling to power some lights and a small electrical heater.
 
-2) 
 
 Cost
-The objective is to build around a 10.000 / 20.000 € budget
+The objective is to keep construction costs around a 10.000 / 20.000 € budget
 
 Materials and techniques
 Cost, performance and origin of the materials will be taken highly in account. In order to stay in a 15/20k price cap we'll need to optimize the geometries and the tech used in order to protect the elements from the weather wear. Standardization of the joints/frames is another goal. Ideally we'd like to "assemble" as many completed pieces on site as possible. Transparent partitions will be an issue, since glass will be too expensive to be employed and Polycarbonate sheets performance are not stellar concerning temperature transmission and weathering. Lightness of the raw materials will be highly taken into account, considering the ease of transport by hand or light carrier. 

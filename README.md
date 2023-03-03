@@ -17,6 +17,8 @@ Use :
 
 5) Due attention will be focused on natural ventilation systems and proper insulation and/or intentional thermal dispersion for the hot day summer conditions.
 
+Windows/transparent partitions:
+1) Transparent partitions will be obviously tailored toward external view; when empty, shutters or blinds will allow the transparency not to be seen
 
 Energy :
 1) Small solar energy panels; the cabin will be most likely be outfitted with a camping size battery, enabling to power some lights and a small electrical heater.
